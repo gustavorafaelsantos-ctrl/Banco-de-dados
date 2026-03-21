@@ -1,5 +1,5 @@
-DROP DATABASE biblioteca_pessoal_1s2026;
-CREATE DATABASE biblioteca_pessoal_1s2026;
+DROP DATABASE biblioteca_pessoal;
+CREATE DATABASE biblioteca_pessoal;
 USE biblioteca_pessoal_1s2026;
 
 CREATE TABLE usuario(

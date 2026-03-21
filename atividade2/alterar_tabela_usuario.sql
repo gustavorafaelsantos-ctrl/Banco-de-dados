@@ -1,1 +1,2 @@
-
+ALTER TABLE usuario 
+ADD COLUMN cpf VARCHAR(14) UNIQUE;
